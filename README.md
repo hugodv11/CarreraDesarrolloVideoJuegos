@@ -15,3 +15,12 @@
   <li>Uso de la herramienta Unity Hub</li>
   <li>Heeramientas de la interfaz de usuario de Unity</li>
 </ol><br>
+
+<h2>Semana 19/10 - 26/10</h2><br>
+<ol>
+  <li>Elementos de la interfaz de Unity</li>
+  <li>La escena en Unity</li>
+  <li>Herramientas en Unity</li>
+  <li>Vista del juego y del proyecto</li>
+  <li>Inspector y consola</li>
+</ol><br>
