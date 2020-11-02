@@ -24,3 +24,13 @@
   <li>Vista del juego y del proyecto</li>
   <li>Inspector y consola</li>
 </ol><br>
+
+<h2>Semana 26/10 - 2/11</h2><br>
+<ol>
+  <li>Elementos de la interfaz de Unity(Finalización)</li>
+  <li>Conceptos esenciales a la hora de crear un videojuego</li>
+  <li>La Asset Store de Unity</li>
+  <li>Prefabs, que son, como utilizarlos y crear y modificar uno nuevo</li>
+  <li>Cache server</li>
+  <li>Build Settings</li>
+</ol><br>
