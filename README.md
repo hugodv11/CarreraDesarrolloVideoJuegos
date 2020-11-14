@@ -34,3 +34,18 @@
   <li>Cache server</li>
   <li>Build Settings</li>
 </ol><br>
+
+<h2>Semana 2/11 - 9/11</h2><br>
+<ol>
+  <li>Scripting en Unity</li>
+  <li>Script 1 - Mover personaje</li>
+  <li>Script 2 - Tags para colisiones</li>
+  <li>Script 3 - Generador de enemigos</li>
+  <li>Script 4 - Atacar enemigos</li>
+  <li>Script 5 - Desplazamiento de cámara y suelo</li>
+  <li>Conceptos básicos del 2D</li>
+  <li>Animación 2D para el personaje principal</li>
+  <li>Unity UI, Gameplay del juego</li>
+  <li>Creación de assets de sonido</li>
+  <li>Exportando y subiendo el juego a la play store</li>
+</ol><br>
