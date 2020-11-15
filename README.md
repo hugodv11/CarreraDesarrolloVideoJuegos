@@ -49,3 +49,18 @@
   <li>Creación de assets de sonido</li>
   <li>Exportando y subiendo el juego a la play store</li>
 </ol><br>
+
+<h2>Semana 2/11 - 15/11</h2><br>
+<ol>
+  <li>Introducción a los componentes</li>
+  <li>Ciclo de vida de un componente</li>
+  <li>Acceso a los componentes</li>
+  <li>Introducción a la API de Unity</li>
+  <li>Co-rutinas</li>
+  <li>Sistemas de coordenadas en Unity</li>
+  <li>Vectores</li>
+  <li>Trigonometría</li>
+  <li>Interpolación lineal</li>
+  <li>Cuaterniones</li>
+  <li>La clase Mathf</li>
+</ol><br>
